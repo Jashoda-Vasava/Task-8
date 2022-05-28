@@ -1,0 +1,130 @@
+{
+  "category": [
+    {
+      "category": "",
+      "name": "",
+      "id": 4
+    },
+    {
+      "category": "",
+      "name": "Rajnik",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "category": "MERN",
+      "name": "Parthiv"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "name": "Admin Panel",
+      "category": "React JS",
+      "discription": "Admin Panel project is in developing mode. Developer name is Parthiv Pithadiya."
+    },
+    {
+      "category": "Node JS",
+      "name": "Axay Chudasama",
+      "discription": "fdsngkdnfknsdkfbnkfnbkfnkdnkdnkndknfdknfdvlknfvlknvlknvlk",
+      "images": "C:\\fakepath\\48HdS63e4XBRPdA3401Y0Vbf.jpg",
+      "id": 2
+    },
+    {
+      "category": "Native",
+      "name": "CRUD",
+      "discription": "Great work done by Native Team.",
+      "images": "",
+      "id": 3
+    },
+    {
+      "category": "MERN",
+      "name": "Google Concept Car",
+      "discription": "Fabulas Work done by Native Team",
+      "images": "C:\\fakepath\\48HdS63e4XBRPdA3401Y0Vbf.jpg",
+      "id": 4
+    }
+  ],
+  "testimonials": [
+    {
+      "client": "Akshar",
+      "images": "",
+      "feedback": "nkndfkjgjkfdjkfkjvndfkjakjvakjvkanvkdkndknckdjnckzxnlkz",
+      "id": 1
+    },
+    {
+      "client": "Sarthi",
+      "images": "",
+      "feedback": "Great team work. Very supportive to each other. Its my pleasure to work with them.",
+      "id": 2
+    },
+    {
+      "client": "jasu",
+      "image": "C:\\fakepath\\E-Grocery store.jpg",
+      "feedback": "good",
+      "id": 3
+    }
+  ],
+  "customer": [
+    {
+      "id": 1,
+      "customer": "Parthiv",
+      "email": "parthiv@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 2,
+      "customer": "Priyank",
+      "email": "priyank@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 3,
+      "customer": "Rajnik",
+      "email": "rajnik@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 4,
+      "customer": "Sagar",
+      "email": "sagar@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 5,
+      "customer": "Sarthi",
+      "email": "sarthi@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 6,
+      "customer": "Ravi",
+      "email": "ravi@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 7,
+      "customer": "Paras",
+      "email": "paras@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 8,
+      "customer": "Sahil",
+      "email": "sahil@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 9,
+      "customer": "Creator",
+      "email": "creator@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 10,
+      "customer": "Chirag",
+      "email": "chirag@gmail.com",
+      "phone": "1234567890"
+    }
+  ]
+}
